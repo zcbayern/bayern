@@ -1,1 +1,1 @@
-git wssssss;
+git ws;
